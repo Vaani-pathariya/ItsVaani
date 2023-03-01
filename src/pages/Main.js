@@ -1,0 +1,6 @@
+const Main=()=>{
+    return(
+        <div>Hello this is main</div>
+    )
+}
+export default Main;
