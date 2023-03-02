@@ -4,3 +4,4 @@
 4. about me page
 5. google analytics 
 6. seo
+7. how to add multiple entry points in netlify
