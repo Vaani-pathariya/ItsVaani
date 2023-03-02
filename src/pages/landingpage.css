@@ -1,0 +1,11 @@
+.landingpage{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100vh;
+}
+.all-posts{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 1%;
+    padding-top: 2.5%;
+}
