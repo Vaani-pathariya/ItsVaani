@@ -4,7 +4,7 @@ const LandingPage=()=>{
     return (
         <div className="landingpage">
             <div className="all-posts">
-                <Link to="/title">hello</Link>
+                
             </div>
         </div>
     )
