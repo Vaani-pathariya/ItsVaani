@@ -16,9 +16,9 @@
 .tags{
     background-color: rgb(240, 161, 122);
     width: fit-content;
-    margin: 0 auto;
-    padding: 0 10px;
-    border-radius: 10px;
+    margin: 0 0;
+    padding: 4px 10px;
+    border-radius: 12px;
 }
 .content{
     text-align: left;
@@ -32,4 +32,12 @@
 .content img{
     max-width: 100%;
     border-radius: 10px;
+}
+.tags-display{
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+}
+.space{
+    width: 8px;
 }
